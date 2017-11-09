@@ -1,0 +1,7 @@
+Para meus testes localhost utilizei o xampp como servidor, bem como o phpMyAdmin como banco de dados.
+No frontend apliquei o framework Bootstrap
+
+
+Parte 1 - Cerca de 5hrs
+
+Na implementação do crud, não senti muita dificuldade já que acabei de reforçar o conhecimento em um curso complementar.
