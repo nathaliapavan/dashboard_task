@@ -1,6 +1,9 @@
 Para meus testes localhost utilizei o xampp como servidor, bem como o phpMyAdmin como banco de dados.
 No frontend apliquei o framework Bootstrap
 
+Nome do banco: dashboard_task
+Crie a tabela de tasks com o arquivo database.sql
+
 Comece por este link:
 http://localhost/Task/dashboard_task/
 
